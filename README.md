@@ -116,7 +116,7 @@ g++ main.cpp -o pendulum -lglut -lGLU -lGL
 
 ## 🔹 Middle Position
 
-![Middle Position](screenshots/middle.png)
+![Middle Position](screenshots/position_middle.png)
 
 ---
 

@@ -142,7 +142,7 @@ Through this project, the following concepts were practiced:
 
 ### Md Tausif Uddin
 
-Computer Science & Engineering (CSE)  
+Department of Computer Science & Engineering (CSE)  
 University of Asia Pacific (UAP)
 
 GitHub: https://github.com/tausif112
